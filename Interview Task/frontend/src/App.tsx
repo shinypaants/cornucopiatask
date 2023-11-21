@@ -9,8 +9,8 @@ const App: React.FC = () => {
         <React.Fragment>
             <CssBaseline />
             <Container maxWidth="sm">
-                <Box sx={{ my: 4 }}>
-                    <Typography variant="h2" component="h1" gutterBottom>
+                <Box sx={{ my: 10 }}>
+                    <Typography variant="h3" component="h1" gutterBottom>
                         Phone Number Checker
                     </Typography>
                     <PhoneValidation />
