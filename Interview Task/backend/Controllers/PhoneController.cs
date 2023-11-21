@@ -16,10 +16,18 @@ namespace PhoneNumberChecker.Controllers
                 var number = phoneNumberUtil.Parse(phoneNumber, countryCode);
                 var isValid = phoneNumberUtil.IsValidNumber(number);
                 var isPossible = phoneNumberUtil.IsPossibleNumber(number);
-                var phoneType = phoneNumberUtil.GetNumberType(number);
-                var internationalFormat = phoneNumberUtil.AsYouTypeFormatter(number);
+                var phoneType = phoneNumberUtil.GetNumberType(number).ToString();
+                var internationalFormat = phoneNumberUtil.Format(number, PhoneNumberFormat.INTERNATIONAL);
 
-                return Ok(new { isValid });
+
+                return Ok(new
+                {
+                    isValid,
+                    isPossible,
+                    phoneType,
+                    internationalFormat
+                });
+
             }
             catch (NumberParseException)
             {

@@ -32,3 +32,37 @@
 /Users/jameschapman/Documents/Interview Task/backend/obj/Debug/net7.0/phonenumberbackend.pdb
 /Users/jameschapman/Documents/Interview Task/backend/obj/Debug/net7.0/phonenumberbackend.genruntimeconfig.cache
 /Users/jameschapman/Documents/Interview Task/backend/obj/Debug/net7.0/ref/phonenumberbackend.dll
+/Users/jameschapman/Documents/Git /Interview Task/backend/bin/Debug/net7.0/appsettings.Development.json
+/Users/jameschapman/Documents/Git /Interview Task/backend/bin/Debug/net7.0/appsettings.json
+/Users/jameschapman/Documents/Git /Interview Task/backend/bin/Debug/net7.0/phonenumberbackend
+/Users/jameschapman/Documents/Git /Interview Task/backend/bin/Debug/net7.0/phonenumberbackend.deps.json
+/Users/jameschapman/Documents/Git /Interview Task/backend/bin/Debug/net7.0/phonenumberbackend.runtimeconfig.json
+/Users/jameschapman/Documents/Git /Interview Task/backend/bin/Debug/net7.0/phonenumberbackend.dll
+/Users/jameschapman/Documents/Git /Interview Task/backend/bin/Debug/net7.0/phonenumberbackend.pdb
+/Users/jameschapman/Documents/Git /Interview Task/backend/bin/Debug/net7.0/PhoneNumbers.dll
+/Users/jameschapman/Documents/Git /Interview Task/backend/bin/Debug/net7.0/Microsoft.AspNetCore.OpenApi.dll
+/Users/jameschapman/Documents/Git /Interview Task/backend/bin/Debug/net7.0/Microsoft.OpenApi.dll
+/Users/jameschapman/Documents/Git /Interview Task/backend/bin/Debug/net7.0/Swashbuckle.AspNetCore.Swagger.dll
+/Users/jameschapman/Documents/Git /Interview Task/backend/bin/Debug/net7.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/jameschapman/Documents/Git /Interview Task/backend/bin/Debug/net7.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/Users/jameschapman/Documents/Git /Interview Task/backend/obj/Debug/net7.0/phonenumberbackend.csproj.AssemblyReference.cache
+/Users/jameschapman/Documents/Git /Interview Task/backend/obj/Debug/net7.0/phonenumberbackend.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jameschapman/Documents/Git /Interview Task/backend/obj/Debug/net7.0/phonenumberbackend.AssemblyInfoInputs.cache
+/Users/jameschapman/Documents/Git /Interview Task/backend/obj/Debug/net7.0/phonenumberbackend.AssemblyInfo.cs
+/Users/jameschapman/Documents/Git /Interview Task/backend/obj/Debug/net7.0/phonenumberbackend.csproj.CoreCompileInputs.cache
+/Users/jameschapman/Documents/Git /Interview Task/backend/obj/Debug/net7.0/phonenumberbackend.MvcApplicationPartsAssemblyInfo.cs
+/Users/jameschapman/Documents/Git /Interview Task/backend/obj/Debug/net7.0/phonenumberbackend.MvcApplicationPartsAssemblyInfo.cache
+/Users/jameschapman/Documents/Git /Interview Task/backend/obj/Debug/net7.0/staticwebassets/msbuild.phonenumberbackend.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/jameschapman/Documents/Git /Interview Task/backend/obj/Debug/net7.0/staticwebassets/msbuild.build.phonenumberbackend.props
+/Users/jameschapman/Documents/Git /Interview Task/backend/obj/Debug/net7.0/staticwebassets/msbuild.buildMultiTargeting.phonenumberbackend.props
+/Users/jameschapman/Documents/Git /Interview Task/backend/obj/Debug/net7.0/staticwebassets/msbuild.buildTransitive.phonenumberbackend.props
+/Users/jameschapman/Documents/Git /Interview Task/backend/obj/Debug/net7.0/staticwebassets.pack.json
+/Users/jameschapman/Documents/Git /Interview Task/backend/obj/Debug/net7.0/staticwebassets.build.json
+/Users/jameschapman/Documents/Git /Interview Task/backend/obj/Debug/net7.0/staticwebassets.development.json
+/Users/jameschapman/Documents/Git /Interview Task/backend/obj/Debug/net7.0/scopedcss/bundle/phonenumberbackend.styles.css
+/Users/jameschapman/Documents/Git /Interview Task/backend/obj/Debug/net7.0/phonenumberbackend.csproj.CopyComplete
+/Users/jameschapman/Documents/Git /Interview Task/backend/obj/Debug/net7.0/phonenumberbackend.dll
+/Users/jameschapman/Documents/Git /Interview Task/backend/obj/Debug/net7.0/refint/phonenumberbackend.dll
+/Users/jameschapman/Documents/Git /Interview Task/backend/obj/Debug/net7.0/phonenumberbackend.pdb
+/Users/jameschapman/Documents/Git /Interview Task/backend/obj/Debug/net7.0/phonenumberbackend.genruntimeconfig.cache
+/Users/jameschapman/Documents/Git /Interview Task/backend/obj/Debug/net7.0/ref/phonenumberbackend.dll
